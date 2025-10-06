@@ -1,0 +1,6 @@
+torch==2.3.0
+torchvision==0.18.0
+matplotlib==3.7.2
+numpy==1.24.4
+torch.utils==0.1.1
+chess==1.9.4
